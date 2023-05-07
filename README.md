@@ -4,7 +4,7 @@ A small python script to create a LibreOffice library for a StarBasic script
 
 ```
 
-sage: main.py [-h] --lib-name LIB_NAME --module-name MODULE_NAME --module-path MODULE_PATH
+usage: main.py [-h] --lib-name LIB_NAME --module-name MODULE_NAME --module-path MODULE_PATH
 
 Make a LibreOffice library from source
 
